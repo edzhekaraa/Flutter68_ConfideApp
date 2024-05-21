@@ -1,0 +1,10 @@
+^C:\USERS\EDZHE\DESKTOP\CONFIDE_APP\BUILD\WINDOWS\X64\CMAKEFILES\8B7E32D4B8A45DE31E51065F7D7500F2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Edzhe/Desktop/confide_app/windows -BC:/Users/Edzhe/Desktop/confide_app/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Edzhe/Desktop/confide_app/build/windows/x64/confide_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

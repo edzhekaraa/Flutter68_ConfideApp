@@ -1,0 +1,1 @@
+ C:\\Users\\Edzhe\\Desktop\\confide_app\\.dart_tool\\flutter_build\\10ea3e0c8c3bbbf61928a2b015107956\\native_assets.yaml: 

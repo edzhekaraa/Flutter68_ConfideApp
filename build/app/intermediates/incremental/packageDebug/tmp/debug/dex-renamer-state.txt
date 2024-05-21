@@ -1,4 +1,4 @@
-#Tue May 21 02:40:43 TRT 2024
+#Tue May 21 03:27:17 TRT 2024
 base.0=C\:\\Users\\Edzhe\\Desktop\\confide_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

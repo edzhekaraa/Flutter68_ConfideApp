@@ -143,7 +143,7 @@ class SummaryPage extends StatelessWidget {
                 ),
                 SizedBox(height: 20),
                 Text(
-                  'Confide\'a hoş geldiniz. Bu uygulama, Cinsel Sağlık ve Üreme Sağlığı (SRH) ve Toplumsal Cinsiyete Dayalı Şiddet (GBV) konularında gizli destek ve hayati bilgiler sağlamayı amaçlamaktadır. Yapay Zeka ile kimseye anlatamayacağınız sorunları paylaşabileceğiniz bir alan sunuyoruz. Eğitim kaynaklarını keşfedin, düşüncelerinizi kaydedin ve acil durum iletişim bilgilerine ulaşın—hepsi tek bir yerde.',
+                  'Confide, Cinsel Sağlık ve Üreme Sağlığı ve Toplumsal Cinsiyete Dayalı Şiddet konularında size destek ve bilgiler sağlıyor. Yapay Zeka ile kimseye anlatamayacağınız sorunları paylaşabileceğiniz bir alan sunuyoruz. Öğrenin, düşüncelerinizi kaydedin ve acil iletişim bilgilerine ulaşın. Hepsi tek bir yerde.',
                   style: Theme.of(context).textTheme.bodyText2,
                   textAlign: TextAlign.center,
                 ),
